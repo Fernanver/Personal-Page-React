@@ -29,4 +29,4 @@ Este fue mi espacio para entender React más allá de lo básico, y para meterme
 
 
 ## 🎞️ Screenshot
-![Screenshot del sitio](Screenshots/Screenshot 2026-10-15 at 15-33-38 Mi_pagina_web.png)
+![Screenshot del sitio](https://github.com/Fernanver/Personal-Page-React/blob/4f37b23b7b326703cd167d8c84a691e79bce9d9c/Screenshots/Screenshot%202026-10-15%20at%2015-33-38%20Mi_pagina_web.png)
