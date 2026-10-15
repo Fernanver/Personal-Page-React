@@ -29,4 +29,4 @@ Este fue mi espacio para entender React más allá de lo básico, y para meterme
 
 
 ## 🎞️ Screenshot
-![Screenshot del sitio](ruta-o-link-de-la-imagen)
+![Screenshot del sitio](Screenshots)
