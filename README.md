@@ -26,3 +26,7 @@ npm run dev
 ## 📝 Sobre el proyecto
 
 Este fue mi espacio para entender React más allá de lo básico, y para meterme con programación gráfica (shaders) en un contexto real.
+
+
+## 🎞️ Screenshot
+![Screenshot del sitio](ruta-o-link-de-la-imagen)
