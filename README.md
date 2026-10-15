@@ -1,16 +1,28 @@
-# React + Vite
+# Página Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mi sitio personal hecho con React y Vite — un proyecto para practicar el framework a fondo y experimentar con shaders en WebGL.
 
-Currently, two official plugins are available:
+El fondo animado está programado con ruido fractal (shader en GLSL), renderizado directamente en el navegador.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologías
 
-## React Compiler
+- React
+- Vite
+- WebGL / GLSL (shaders)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Instalación
 
-## Expanding the ESLint configuration
+\`\`\`bash
+git clone https://github.com/Fernanver/Personal-Page-React.git
+cd Personal-Page-React
+npm install
+npm run dev
+\`\`\`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Demo
+
+[Ver sitio en vivo](URL-AQUI-SI-TIENES-DEPLOY)
+
+## 📝 Sobre el proyecto
+
+Este fue mi espacio para entender React más allá de lo básico, y para meterme con programación gráfica (shaders) en un contexto real.
